@@ -1,0 +1,58 @@
+
+html{
+    font-family: "Trirong", serif;
+    color:white;
+    background-color: black;
+    border: 5px groove red;
+    margin:20px;
+}
+h1{
+    text-align: center;
+}
+#SPECIAL{
+    color: #42A4FF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 2em;
+}
+#task{
+    color: #FF0000;
+    font-size: 3em;
+    font-weight: 900;
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+color: blue;
+}
+h2{
+    text-align: end;
+}
+.random_stuff{
+    font-size: 1.5em;
+    font-family:'Courier New', Courier, monospace;
+    color: rgba(245, 123, 235, 1);
+}
+h3{
+    color: green;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    font-size: 1.23em;
+}
